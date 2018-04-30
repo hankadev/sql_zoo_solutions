@@ -1,5 +1,5 @@
 -- table world header:
--- name, continent, area, polulation, gdp
+-- name, continent, area, population, gdp
 
 -- 1. List each country name where the population is larger than that of 'Russia'.
 SELECT name FROM world
